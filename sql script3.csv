@@ -1,0 +1,12 @@
+[{"id":1, "approved":"1", "product_id":0, "request_date":"2023-10-27 17:20:13"},
+ {"id":2, "approved":"1", "product_id":0, "request_date":"2023-10-27 17:20:50"},
+ {"id":3, "approved":"0", "product_id":0, "request_date":"2023-10-27 17:22:00"},
+ {"id":4, "approved":"0", "product_id":0, "request_date":"2023-10-27 17:34:51"},
+ {"id":5, "approved":"0", "product_id":0, "request_date":"2023-10-27 17:36:13"},
+ {"id":6, "approved":"0", "product_id":0, "request_date":"2023-10-27 17:38:28"},
+ {"id":7, "approved":"1", "product_id":0, "request_date":"2023-10-28 14:53:50"},
+ {"id":8, "approved":"0", "product_id":7, "request_date":"2023-10-28 14:54:22"},
+ {"id":9, "approved":"0", "product_id":7, "request_date":"2023-10-28 14:56:01"},
+ {"id":10, "approved":"0", "product_id":0, "request_date":"2023-10-28 14:59:49"},
+ {"id":11, "approved":"0", "product_id":9, "request_date":"2023-10-28 15:00:41"},
+ {"id":12, "approved":"1", "product_id":0, "request_date":"2023-10-28 15:06:08"}]
